@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RandomAww</string>
+
+    <string name="dog_button">PIESIO</string>
+    <string name="cat_button">KOTECEK</string>
+    <string name="randomize_button">ZASKOCZ MNIE</string>
+
+    <string name="no_connection_msg">Bez internetu nie zadziała, sorry :(</string>
+    <string name="exit_msg">Wyjdź</string>
+    <string name="retry_msg">Spróbuj ponownie</string>
+</resources>
