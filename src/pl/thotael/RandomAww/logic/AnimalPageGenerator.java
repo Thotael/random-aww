@@ -8,7 +8,7 @@ import java.util.Random;
 public class AnimalPageGenerator {
 
     private static final String DOG_URL = "http://www.randomdoggiegenerator.com/randomdoggie.php";
-    private static final String CAT_URL = "http://www.randomkittengenerator.com/images/cats/rotator.php";
+    private static final String CAT_URL = "http://www.randomkittengenerator.com/cats/rotator.php";
 
     private static String getHtml(String url) {
         return "<html><body style='background-color: black'><img style='-webkit-user-select: none; width: 100%;' src='" + url + "'></body></html>";
